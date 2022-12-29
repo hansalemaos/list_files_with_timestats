@@ -1,4 +1,4 @@
-# Check on what operating system the script is running 
+# List files recursively, limit the depth of the subdirs, and get the creation and modification times
 
 ```python
 # Tested on windows 
